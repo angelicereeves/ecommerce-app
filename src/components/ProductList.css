@@ -1,0 +1,32 @@
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.category-buttons button {
+  padding: 8px 16px;
+  background-color: #167c7c;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.category-buttons button:hover {
+  background-color: #4ea7e7;
+}
+
+.category-buttons button.active {
+  background-color: #8ba5e0;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
