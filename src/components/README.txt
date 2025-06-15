@@ -15,3 +15,6 @@ Features
 - Product images 
 - Custom CSS styling
 
+
+to navigate, clone repository: https://github.com/angelicereeves/ecommerce-app
+
