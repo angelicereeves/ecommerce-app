@@ -153,7 +153,7 @@ function App() {
         </div>
       </div>
 
-      //{/* Render filtered products via ProductList component */}
+      {/* Render filtered products via ProductList component */}
       <ProductList products={filteredProducts} />
     </div>
   );
